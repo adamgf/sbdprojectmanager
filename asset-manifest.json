@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sbdprojectmanager/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sbdprojectmanager/static/js/main.4e20323c.chunk.js",
+    "main.js.map": "/sbdprojectmanager/static/js/main.4e20323c.chunk.js.map",
+    "runtime-main.js": "/sbdprojectmanager/static/js/runtime-main.955366e2.js",
+    "runtime-main.js.map": "/sbdprojectmanager/static/js/runtime-main.955366e2.js.map",
+    "static/js/2.703b33d8.chunk.js": "/sbdprojectmanager/static/js/2.703b33d8.chunk.js",
+    "static/js/2.703b33d8.chunk.js.map": "/sbdprojectmanager/static/js/2.703b33d8.chunk.js.map",
+    "static/js/3.681d12e8.chunk.js": "/sbdprojectmanager/static/js/3.681d12e8.chunk.js",
+    "static/js/3.681d12e8.chunk.js.map": "/sbdprojectmanager/static/js/3.681d12e8.chunk.js.map",
+    "index.html": "/sbdprojectmanager/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sbdprojectmanager/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.703b33d8.chunk.js.LICENSE.txt": "/sbdprojectmanager/static/js/2.703b33d8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sbdprojectmanager/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.955366e2.js",
+    "static/js/2.703b33d8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4e20323c.chunk.js"
+  ]
+}
