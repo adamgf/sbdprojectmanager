@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sbdprojectmanager/static/css/main.9c82d3d3.chunk.css",
-    "main.js": "/sbdprojectmanager/static/js/main.f8e89858.chunk.js",
-    "main.js.map": "/sbdprojectmanager/static/js/main.f8e89858.chunk.js.map",
+    "main.js": "/sbdprojectmanager/static/js/main.916ec008.chunk.js",
+    "main.js.map": "/sbdprojectmanager/static/js/main.916ec008.chunk.js.map",
     "runtime-main.js": "/sbdprojectmanager/static/js/runtime-main.42170450.js",
     "runtime-main.js.map": "/sbdprojectmanager/static/js/runtime-main.42170450.js.map",
-    "static/js/2.67c1e9a9.chunk.js": "/sbdprojectmanager/static/js/2.67c1e9a9.chunk.js",
-    "static/js/2.67c1e9a9.chunk.js.map": "/sbdprojectmanager/static/js/2.67c1e9a9.chunk.js.map",
+    "static/js/2.91835378.chunk.js": "/sbdprojectmanager/static/js/2.91835378.chunk.js",
+    "static/js/2.91835378.chunk.js.map": "/sbdprojectmanager/static/js/2.91835378.chunk.js.map",
     "static/js/3.c8c571cf.chunk.js": "/sbdprojectmanager/static/js/3.c8c571cf.chunk.js",
     "static/js/3.c8c571cf.chunk.js.map": "/sbdprojectmanager/static/js/3.c8c571cf.chunk.js.map",
     "index.html": "/sbdprojectmanager/index.html",
     "static/css/main.9c82d3d3.chunk.css.map": "/sbdprojectmanager/static/css/main.9c82d3d3.chunk.css.map",
-    "static/js/2.67c1e9a9.chunk.js.LICENSE.txt": "/sbdprojectmanager/static/js/2.67c1e9a9.chunk.js.LICENSE.txt"
+    "static/js/2.91835378.chunk.js.LICENSE.txt": "/sbdprojectmanager/static/js/2.91835378.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.42170450.js",
-    "static/js/2.67c1e9a9.chunk.js",
+    "static/js/2.91835378.chunk.js",
     "static/css/main.9c82d3d3.chunk.css",
-    "static/js/main.f8e89858.chunk.js"
+    "static/js/main.916ec008.chunk.js"
   ]
 }
