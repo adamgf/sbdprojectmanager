@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sbdprojectmanager/static/css/main.9c82d3d3.chunk.css",
-    "main.js": "/sbdprojectmanager/static/js/main.2256fdca.chunk.js",
-    "main.js.map": "/sbdprojectmanager/static/js/main.2256fdca.chunk.js.map",
+    "main.js": "/sbdprojectmanager/static/js/main.f8e89858.chunk.js",
+    "main.js.map": "/sbdprojectmanager/static/js/main.f8e89858.chunk.js.map",
     "runtime-main.js": "/sbdprojectmanager/static/js/runtime-main.42170450.js",
     "runtime-main.js.map": "/sbdprojectmanager/static/js/runtime-main.42170450.js.map",
     "static/js/2.67c1e9a9.chunk.js": "/sbdprojectmanager/static/js/2.67c1e9a9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.42170450.js",
     "static/js/2.67c1e9a9.chunk.js",
     "static/css/main.9c82d3d3.chunk.css",
-    "static/js/main.2256fdca.chunk.js"
+    "static/js/main.f8e89858.chunk.js"
   ]
 }
